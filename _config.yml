@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: kevops
 email: kjh.mail@gmail.com
-description: Infrastructure automation developer, operations process wonk, triathlete, wannabe pilot, cat dad, Senior SRE @ExactSciences.
-baseurl: "https://kevops.github.io" # the subpath of your site, e.g. /blog
+description: Infrastructure automation developer, operations process wonk, triathlete, wannabe pilot, cat dad, Senior Site Reliability Engineer @<a href="https://exactsciences.">ExactSciences</a>.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kevops.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kj_hubbard
 github_username:  kevops
